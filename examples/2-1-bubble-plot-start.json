@@ -1,0 +1,12 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JJ/top-github-users-data/master/data/processed/aggregated-top-Canarias.csv"
+  },
+  "width": 600,
+  "height": 400,
+  "transform": [],
+  "mark": "point",
+  "encoding": {
+  }
+}
